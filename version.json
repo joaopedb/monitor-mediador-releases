@@ -1,6 +1,6 @@
 {
-  "versao_atual": "1.1",
-  "url_download": "https://github.com/JPed552/monitor-mediador-releases/releases/latest/download/Monitor.Mediador.exe",
-  "notas_atualizacao": "Correção: convenções cujo download abre em outra aba (documento gerado na hora) agora baixam certo — antes davam timeout e não baixavam. Melhorias: fechar a janela no X encerra o app quando não há agendamento ativo; nomes longos de sindicato no feed não espremem mais o botão 'abrir pasta' (nome truncado com tooltip e tipo em tag curta).",
-  "sha256": "79138883ca4fb206e602609254206da151db955e139233a8603bd96f69ea0f40"
+  "versao_atual": "2.0",
+  "url_download": "https://github.com/joaopedb/monitor-mediador-releases/releases/download/v2.0/Monitor.Mediador.exe",
+  "notas_atualizacao": "Confere cada download antes de registrar; grava no histórico onde o arquivo foi salvo, o Nº de Registro e a vigência; quando chega documento novo, busca sozinho no site a convenção anterior que faltar",
+  "sha256": "08fb6a3d5fc273d749bb6222dacde0dba88fc239e0347dda0294f27f659ce585"
 }
